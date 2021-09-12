@@ -1,1 +1,1 @@
-# Password-Generator
+This was a fun assignment to do. I have taken the acceptance criteria and was able to get the generator to generate a random password using the given parameters. 
