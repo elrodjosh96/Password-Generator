@@ -7,10 +7,7 @@ Link for deployed page: https://elrodjosh96.github.io/Password-Generator/
 
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Contribution](#contribution)
-* [Test](#test)
-* [License](#license)
 * [Questions](#questions)
 
 
